@@ -5,7 +5,7 @@
 - Credits to [Titanium Network](https://github.com/titaniumnetwork-dev) for the Ultraviolet server that I based it on! They are an amazing group,working tirelessly for an internet where there is freedom and no restrictions.
 - Credits to the [Vapor Network](https://vapor.my) for the inspiration and the source code for their devs.
 - Credits to [Waves Network](https://usewaves.site) for the proxied games through the scramjet server.
-- Credits to [Vidora.su](watch.vidora.su) For the iframe embedding and the extra movies.
+- Credits to [Vidora](https://watch.vidora.su) For the iframe embedding and the extra movies.
 - Credits to [SmilingSandwich](https://www.youtube.com/@smilingsandwich) He is a good friend at my school,and has brainstormed with me many times.(Jaydon!! Let's gooooooo)
 - Credits to [Aiden.S](https://github.com/nedialosis) Another student from my school...
 - Credits to [Blobby Boi](https://github.com/Blobby-Boi) For helping me with the source code for the games.I cannot just FIND the source code of Time Shooter 3,you know!
