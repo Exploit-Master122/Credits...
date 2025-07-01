@@ -11,6 +11,7 @@
 - Credits to [Blobby Boi](https://github.com/Blobby-Boi) For helping me with the source code for the games.I cannot just FIND the source code of Time Shooter 3,you know!
 - Credits to [Stephen.Z](https://github.com/whotheduckisthisaaaaaaaaaaaahhhh) for showing everyone rigtools at my school,which persuaded me to start coding. (I still hate you stephen!!)
 - Credits to [Echo](https://github.com/3kh0) for developing the Ext-Remover repo.
+- Credits to Aiden.S,Charlotte.S,(Not related),Justin.V and Jaydon.L at my school for giving me some sort of inspiration or ideas for the source code. =-)
 
 
 # The Numbers...
