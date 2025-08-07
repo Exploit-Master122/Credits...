@@ -15,6 +15,7 @@
 - Credits to [Simon Cheng](https://github.com/binary-person) For developing rammerhead browser,the successor to ScramJet.
 - Credits to a bunch of kids from my school,you skids are crazy.But seriously,I love you people for all the support!... =-D
 - Credits to [LupineVault](https://lupine.red) It kept me going that people so famous like [RHW](https://rhw.one/) Have helped me grow my projects and my community.
+- Credits to Thefakesydney on discord for beta testing!!
 # The Numbers...
 - Over 200 members in the Discord!
 - 700 Users!
